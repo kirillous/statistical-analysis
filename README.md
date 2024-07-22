@@ -13,12 +13,12 @@ This project focuses on analyzing size measurement data related to a specific pl
 ## Findings
 
 1. Linear Relationships:
- - **Variables X1, Y1, and Y2 exhibit strong linear relationships.
- - **High correlation coefficients, clear linearity in scatter plots, and clustering of data points around certain lines suggest that some measurements may redundantly capture similar information.
+ - Variables X1, Y1, and Y2 exhibit strong linear relationships.
+ - High correlation coefficients, clear linearity in scatter plots, and clustering of data points around certain lines suggest that some measurements may redundantly capture similar information.
    
 2. Distinct Clusters:
- - **The presence of distinct clusters within the dataset was observed through multiple analyses.
- - **Clear clusters on scatter plots, distinct arrangements in the PCA plot, and successful segmentation into three clusters using the K-means algorithm indicate the existence of three distinct species of plants in the dataset.
+ - The presence of distinct clusters within the dataset was observed through multiple analyses.
+ - Clear clusters on scatter plots, distinct arrangements in the PCA plot, and successful segmentation into three clusters using the K-means algorithm indicate the existence of three distinct species of plants in the dataset.
 
 ## Conclusion 
 
